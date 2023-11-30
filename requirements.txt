@@ -1,3 +1,4 @@
 loguru==0.7.2
 starknet-py==0.18.2
 web3==6.11.1
+asyncio==3.4.3
